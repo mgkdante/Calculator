@@ -13,7 +13,7 @@ This is a simple calculator app built with HTML, CSS, and JavaScript. It allows 
 ## Getting Started
 To use the calculator, simply open the index.html file in your web browser. You can then enter numbers and operators using the on-screen buttons, and the result will be displayed in the calculator's output area.
 
-##CSS
+## CSS
 The CSS code for this project is located in the styles.css file. It uses flexbox to create a responsive layout that works on desktop and mobile devices. The calculator has a container element with a fixed width and a flexible height, and contains two child elements: a result area and a button area.
 
 The result area is a div element with a fixed height and a flexible width. It has a black border, a black text color, and a black background color. The text is aligned to the right and has a font size of 1.5em.
