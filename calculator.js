@@ -2,7 +2,6 @@ let firstNumber = 0
 let secondNumber = 0
 let operator = ''
 let resultString = ''
-let allCalculations = []
 let invinsibleCurrentResult = 0
 
 const buttons = document.querySelectorAll('.button')
